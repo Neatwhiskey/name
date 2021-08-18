@@ -7,5 +7,9 @@
 
 import Foundation
 
-print("Hello, World!")
+import Foundation
+var firstName = "Jamaldeen"
+var lastName = "Opasina"
+var otherName = "Boladale"
+print(" My names are:\(lastName),\(firstName),\(otherName)")
 
